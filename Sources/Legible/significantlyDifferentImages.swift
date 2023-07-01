@@ -1,6 +1,9 @@
 #if os(macOS)
 import AppKit
+#elseif os(iOS)
+import UIKit
 #endif
+
 import Accelerate
 import CoreImage
 import CoreImage.CIFilterBuiltins
