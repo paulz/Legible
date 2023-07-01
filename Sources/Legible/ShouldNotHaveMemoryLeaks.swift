@@ -1,5 +1,6 @@
 import Nimble
 import Quick
+import Foundation
 
 /**
  The “ShouldNotHaveMemoryLeaks” behavior

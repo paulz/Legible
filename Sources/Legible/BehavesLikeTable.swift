@@ -1,4 +1,5 @@
 import Quick
+import Foundation
 
 fileprivate extension String {
     func tabulated() -> [String] {

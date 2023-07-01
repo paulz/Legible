@@ -2,6 +2,7 @@ import Quick
 import Nimble
 import SwiftUI
 import UniformTypeIdentifiers
+import XCTest
 
 public class SnapshotConfiguration {
     static public var usedSnapshots = [URL]()
