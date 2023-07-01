@@ -18,7 +18,7 @@ to make spec more readable
   s.ios.deployment_target = '14.0'
   s.osx.deployment_target = '11.0'
   s.tvos.deployment_target = '9.0'
-  s.source_files = 'Legible/Classes/**/*'
+  s.source_files = 'Sources/Legible/*'
   s.requires_arc = true
   s.weak_framework = 'XCTest'
   s.cocoapods_version = '>= 1.4.0'
